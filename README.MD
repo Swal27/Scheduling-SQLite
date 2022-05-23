@@ -1,8 +1,11 @@
- <!-- ABOUT THE PROJECT -->
+
+ 	
+	<!-- ABOUT THE PROJECT -->
 		
 	## About The Project 
 	THIS PROJECT ONLY MY PERSONAL PROJECT TO LEARN
     Android Studio CRUD using Local Database (SQLite)
+    Create Schedulling Aplication for LAB ICT using SQLite
         
     ### Built With 
 	[SQLite](https://www.sqlite.org/index.html) 
