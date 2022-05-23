@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Jadwal Lab ICT</string>
+    <string name="jadwal_lab_ict">Jadwal LAB ICT</string>
+    <string name="mata_kuliah">Mata Kuliah</string>
+    <string name="jam_mulai">Jam Mulai</string>
+    <string name="jam_akhir">Jam Akhir</string>
+    <string name="dosen">Dosen</string>
+    <string name="lab">LAB</string>
+    <string name="jurusan">Jurusan</string>
+    <string name="submit">Submit</string>
+    <string name="tanggal">Tanggal</string>
+    <string name="asisten">Asisten</string>
+    <string name="apakah_kamu_yakin">Pilih Salah Satu!</string>
+    <string name="edit">Edit</string>
+    <string name="are_you_sure">Are You Sure?</string>
+
+</resources>
